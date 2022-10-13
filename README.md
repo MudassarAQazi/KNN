@@ -13,7 +13,7 @@ In this project the Manhattan and Eucledean Distances are implemented and the pr
 <br>The "predictionL1.py" is used to make Predictions for k-nearest neighbors with Manhattan distances on the Iris Flowers Dataset.
 <br>The predictions are
 
-<br>+++++++++++Manhattan Distances Example+++++++++++
+<br>+++++++++++Manhattan Distance Example+++++++++++
 <br>[Iris-setosa] => 0
 <br>[Iris-virginica] => 1
 <br>[Iris-versicolor] => 2
@@ -31,7 +31,7 @@ In this project the Manhattan and Eucledean Distances are implemented and the pr
 <br>The "predictionL2.py" is used to make Predictions for k-nearest neighbors with Eucledean distances on the Iris Flowers Dataset.
 <br>The predictions are
 
-<br>+++++++++++Eucledean Distances Example+++++++++++
+<br>+++++++++++Eucledean Distance Example+++++++++++
 <br>[Iris-virginica] => 0
 <br>[Iris-versicolor] => 1
 <br>[Iris-setosa] => 2

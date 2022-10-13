@@ -2,6 +2,8 @@
 from csv import reader
 from math import sqrt
 
+print("+++++++++++Manhattan Distances Example+++++++++++")
+
 # Load a CSV file
 def load_csv(iris):
 	dataset = list()
@@ -82,7 +84,7 @@ str_column_to_int(dataset, len(dataset[0])-1)
 # define model parameter
 num_neighbors = 5
 # define a new record
-row = [4.1,2.2,1.4,0.3]
+row = [3.1,2.5,4.4,0.2]
 # predict the label
 label = predict_classification(dataset, row, num_neighbors)
 print('Data=%s, Predicted: %s' % (row, label))

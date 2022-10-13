@@ -1,4 +1,4 @@
-# 4. k-nearest neighbors on the Iris Flowers Dataset--------------------------------------------------------------------
+# k-nearest neighbors on the Iris Flowers Dataset
 from random import seed
 from random import randrange
 from csv import reader

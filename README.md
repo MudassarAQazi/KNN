@@ -1,7 +1,11 @@
 # KNN
 
-In this project "knnL1.py" is used to get "Manhattan Distances".
-The Scores and Mean Accuracy for Manhattan distances are
+In this project the Manhattan and Eucledean Distances are implemented and the predictions are made.
+
+1.Manhattan Distances
+-
+/The "knnL1.py" is used to get "Manhattan Distances".
+/The Scores and Mean Accuracy for Manhattan distances are
 
 Scores: [90.0, 96.66666666666667, 96.66666666666667, 90.0, 96.66666666666667]
 Mean Accuracy: 94.000%
@@ -16,8 +20,8 @@ The predictions are
 Data=[3.1, 2.5, 4.4, 0.2], Predicted: 2
 
 
-
-
+2.Eucledean Distances
+-
 The "knnL2.py" is used to get "Eucledean Distances".
 The Scores and Mean Accuracy for Euclean distances are
 
